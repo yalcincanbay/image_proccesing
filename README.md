@@ -1,1 +1,14 @@
-# image_proccesing
+# UYG332 Görüntü İşleme Final Projesi
+Ad: [Adın]
+Soyad: [Soyadın]
+Öğrenci No: [Öğrenci Numaran]
+
+## Proje Açıklaması
+Bu proje, UYG332 dersi için Python ve OpenCV kullanılarak geliştirilmiştir.
+
+## Gereksinimler
+- Python 3.x
+- Kütüphaneler: opencv-python, numpy, matplotlib, jupyter
+- Kurulum:
+  ```bash
+  pip install opencv-python numpy matplotlib jupyter
