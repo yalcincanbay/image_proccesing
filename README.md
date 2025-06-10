@@ -1,7 +1,6 @@
 # UYG332 Image Processing Final Project
 
-**Name**: MUSTAFA YALÇIN 
-**Surname**: CANBAY  
+**Name**: MUSTAFA YALÇIN CANBAY  
 **Student ID**: B2180.060055
 
 ## Project Description
