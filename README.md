@@ -1,14 +1,16 @@
-# UYG332 Görüntü İşleme Final Projesi
-Ad: Mustafa Yalçın
-Soyad: Canbay
-Öğrenci No: B2180.060055
+---
+# UYG332 Image Processing Final Project
+Name: Mustafa Yalçın
+Surname: Canbay
+Student ID: B2180.060055
 
-## Proje Açıklaması
-Bu proje, UYG332 dersi için Python ve OpenCV kullanılarak geliştirilmiştir.
+## Project Info
+This project is for the UYG332 class. It is made using Python and OpenCV.
 
-## Gereksinimler
+## What You Need
 - Python 3.x
-- Kütüphaneler: opencv-python, numpy, matplotlib, jupyter
-- Kurulum:
+- Libraries: opencv-python, numpy, matplotlib, jupyter
+- How to Install:
   ```bash
   pip install opencv-python numpy matplotlib jupyter
+  ```
