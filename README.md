@@ -1,8 +1,8 @@
 # UYG332 Image Processing Final Project
 
-**Name**: [MUSTAFA YALÇIN]  
-**Surname**: [CANBAY]  
-**Student ID**: [B2180.060055]
+**Name**: MUSTAFA YALÇIN 
+**Surname**: CANBAY  
+**Student ID**: B2180.060055
 
 ## Project Description
 This project is developed as the final assignment for the UYG332 Image Processing course. It aims to apply image processing techniques using Python and the OpenCV library. Six distinct problems are solved using the provided image dataset, with all solutions presented in a Jupyter Notebook format.
