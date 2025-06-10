@@ -1,7 +1,7 @@
 # UYG332 Görüntü İşleme Final Projesi
-Ad: [Adın]
-Soyad: [Soyadın]
-Öğrenci No: [Öğrenci Numaran]
+Ad: Mustafa Yalçın
+Soyad: Canbay
+Öğrenci No: B2180.060055
 
 ## Proje Açıklaması
 Bu proje, UYG332 dersi için Python ve OpenCV kullanılarak geliştirilmiştir.
